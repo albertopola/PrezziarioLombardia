@@ -1,4 +1,4 @@
-# Prezziario OOEE Lombardia - WebApp
+# Prezziario Lombardia - WebApp
 
 WebApp Blazor WebAssembly per la ricerca e navigazione delle voci del prezziario delle Opere ed Opere Elettromeccaniche della Regione Lombardia.
 
